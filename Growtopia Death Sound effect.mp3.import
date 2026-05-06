@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://2fhvb4t87vya"
+path="res://.godot/imported/Growtopia Death Sound effect.mp3-4e3826833fa04b35c222bd74d3988237.mp3str"
+
+[deps]
+
+source_file="res://Growtopia Death Sound effect.mp3"
+dest_files=["res://.godot/imported/Growtopia Death Sound effect.mp3-4e3826833fa04b35c222bd74d3988237.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4
